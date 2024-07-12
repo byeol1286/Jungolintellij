@@ -1,6 +1,8 @@
+package q150;
+
 import java.util.Scanner;
 
-public class q150 {
+public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
